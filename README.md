@@ -51,7 +51,7 @@ Established professional presence on [GitHub, LinkedIn, Kaggle]. Created GitHub 
 ### Module 3: Coding & Collaboration Platforms
 - Completed beginner coding challenge on HackerRanK to understand programming practice platforms
 - Created a "Digital Literacy Awareness Quiz" using Google Forms with 5 questions to engage batchmates
-- [Google Form Link - Add your link here]
+- https://docs.google.com/forms/d/e/1FAIpQLSeLl6Z3YDzmTZJwhKoVgg_MzrR5Fgeyr0UAgfUley74RiO2LQ/viewform?usp=publish-editor
 
 ### Module 4: Email Etiquette & Social Media
 - Drafted professional emails demonstrating proper format, tone, and structure for academic and professional communication

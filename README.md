@@ -64,7 +64,7 @@ Researched [chosen cybercrime type] and developed:
 - Included National Cyber Crime Portal (cybercrime.gov.in) and Helpline 1930
 
 ## Key Learnings
-[Write 2-3 sentences about your overall learning experience from this project]
+I learned how to make student digital portfolio in github.
 
 ## References
 - Course materials from CSE0001 - Digital Literacy
